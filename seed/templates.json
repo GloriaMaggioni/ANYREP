@@ -125,7 +125,7 @@
     "rounds": 8,
     "work_seconds": 20,
     "rest_exercise_seconds": 10,
-    "rest_round_seconds": 60,
+    "rest_round_seconds": 10,
     "total_time_minutes": 16,
     "exercise_list": [
       {
@@ -578,7 +578,7 @@
     "rounds": 8,
     "work_seconds": 20,
     "rest_exercise_seconds": 10,
-    "rest_round_seconds": 60,
+    "rest_round_seconds": 10,
     "total_time_minutes": 20,
     "exercise_list": [
       {
@@ -838,7 +838,7 @@
     "created_by": null,
     "rounds": 1,
     "work_seconds": 0,
-    "rest_exercise_seconds": 30,
+    "rest_exercise_seconds": 15,
     "rest_round_seconds": 60,
     "total_time_minutes": 20,
     "exercise_list": [
@@ -1027,7 +1027,7 @@
     "rounds": 2,
     "work_seconds": 20,
     "rest_exercise_seconds": 10,
-    "rest_round_seconds": 60,
+    "rest_round_seconds": 10,
     "total_time_minutes": 5,
     "exercise_list": [
       {

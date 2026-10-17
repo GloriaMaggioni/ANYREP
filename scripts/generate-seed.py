@@ -108,10 +108,10 @@ for name, eq, lvl, spec, dirs, mus, desc in E:
 
 STRUCT = {
   "rounds": dict(work_seconds=45, rest_exercise_seconds=15, rest_round_seconds=60),
-  "tabata": dict(work_seconds=20, rest_exercise_seconds=10, rest_round_seconds=60, rounds=8),
+  "tabata": dict(work_seconds=20, rest_exercise_seconds=10, rest_round_seconds=10, rounds=8),
   "emom":   dict(work_seconds=60, rest_exercise_seconds=0, rest_round_seconds=0),
   "amrap":  dict(work_seconds=0, rest_exercise_seconds=0, rest_round_seconds=0, rounds=0),
-  "ladder": dict(work_seconds=0, rest_exercise_seconds=30, rest_round_seconds=60, rounds=1),
+  "ladder": dict(work_seconds=0, rest_exercise_seconds=15, rest_round_seconds=60, rounds=1),
 }
 # name, direction, structure, equipment, level, location, minutes, rounds, exercises
 T = [
