@@ -1,0 +1,1060 @@
+[
+  {
+    "id": "571b1f5e-522c-5a1c-8fd6-47e1c742eadb",
+    "slug": "leg-day-home",
+    "name": "Leg Day Home",
+    "direction": "legs",
+    "structure": "rounds",
+    "level": "intermediate",
+    "location": "home",
+    "equipment": [
+      "none"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 4,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 20,
+    "exercise_list": [
+      {
+        "exercise_id": "b1a1c98f-3ae6-5c34-9e00-1cbcce767609",
+        "order": 1,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "78546078-ba2d-5c55-a53b-3a68ceecfdb3",
+        "order": 2,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "d7c0851e-7df8-54e7-b0c2-209bdc34e775",
+        "order": 3,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "ea023a34-6859-536f-b769-c34b9c84d7e0",
+        "order": 4,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "61db3d59-8912-5664-b6ec-471b171ff4aa",
+        "order": 5,
+        "reps": 20,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "721676fe-10d8-5c80-a21f-e40e25cb0251",
+    "slug": "leg-day-gym",
+    "name": "Leg Day Gym",
+    "direction": "legs",
+    "structure": "rounds",
+    "level": "advanced",
+    "location": "gym",
+    "equipment": [
+      "machine"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 4,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 25,
+    "exercise_list": [
+      {
+        "exercise_id": "85968a70-6a13-50a6-9c03-6ffe7108e7da",
+        "order": 1,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "c7f2ed6f-1be4-583b-9518-81925c8cdc66",
+        "order": 2,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "e5d69280-cd35-50a5-81d5-d1fa7bada044",
+        "order": 3,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "623e8ffa-29a6-5124-94e3-f39443e64c28",
+        "order": 4,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "b1a1c98f-3ae6-5c34-9e00-1cbcce767609",
+        "order": 5,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "8ee412c8-6c8c-5a6a-b849-0d0e9015c822",
+        "order": 6,
+        "reps": 6,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "f541f8d1-73e4-5c50-976c-1e7f79c9b234",
+    "slug": "push-day-home",
+    "name": "Push Day Home",
+    "direction": "push",
+    "structure": "tabata",
+    "level": "beginner",
+    "location": "home",
+    "equipment": [
+      "chair"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 8,
+    "work_seconds": 20,
+    "rest_exercise_seconds": 10,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 16,
+    "exercise_list": [
+      {
+        "exercise_id": "bd0fee91-9def-5cfa-bbe8-96538d1d3957",
+        "order": 1,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "de111b0d-a480-5080-a8ba-bd01d14c0db1",
+        "order": 2,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "ac57a2b1-35b8-5269-aa4a-a0efc069c728",
+        "order": 3,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "e6621cf9-ada9-51c5-960c-02c81907dc6e",
+        "order": 4,
+        "reps": 10,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "ca7cdc2b-4ef2-572d-81a6-5f127f47278e",
+    "slug": "push-day-gym",
+    "name": "Push Day Gym",
+    "direction": "push",
+    "structure": "rounds",
+    "level": "intermediate",
+    "location": "gym",
+    "equipment": [
+      "dumbbells",
+      "machine"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 4,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 20,
+    "exercise_list": [
+      {
+        "exercise_id": "5eb3cbb7-2254-5fb9-8579-30b859702f02",
+        "order": 1,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "c2bde1f8-7bdc-5b65-8d48-02f5da826484",
+        "order": 2,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "300df2cf-cf9e-51d5-a033-46c932c11e9b",
+        "order": 3,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "0c9f1664-ba19-58e3-bda5-646d000c35b8",
+        "order": 4,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "526a8e4e-b14b-56f7-b3d8-80d0817bbf32",
+        "order": 5,
+        "reps": 10,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "46aee546-4614-5525-a863-e91a953c6e76",
+    "slug": "pull-day-home",
+    "name": "Pull Day Home",
+    "direction": "pull",
+    "structure": "emom",
+    "level": "intermediate",
+    "location": "home",
+    "equipment": [
+      "bar"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 5,
+    "work_seconds": 60,
+    "rest_exercise_seconds": 0,
+    "rest_round_seconds": 0,
+    "total_time_minutes": 15,
+    "exercise_list": [
+      {
+        "exercise_id": "6e797a62-1601-50cb-a8b5-1c3099ab8d0a",
+        "order": 1,
+        "reps": 6,
+        "duration": null
+      },
+      {
+        "exercise_id": "fd7462f5-33af-5ee6-b976-b7f23cc3302e",
+        "order": 2,
+        "reps": 8,
+        "duration": null
+      },
+      {
+        "exercise_id": "9e08e9cd-fdf7-51d1-8489-0364cd603e46",
+        "order": 3,
+        "reps": 5,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "e1c08865-3895-54f9-bf18-3c97dae72a37",
+    "slug": "pull-day-gym",
+    "name": "Pull Day Gym",
+    "direction": "pull",
+    "structure": "rounds",
+    "level": "advanced",
+    "location": "gym",
+    "equipment": [
+      "bar",
+      "dumbbells",
+      "machine"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 4,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 25,
+    "exercise_list": [
+      {
+        "exercise_id": "5c134a7f-e4e5-5cd2-ae81-61184268ca06",
+        "order": 1,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "20238ec8-73ed-5a4b-9e05-aaba4683d9ff",
+        "order": 2,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "7993b62d-6d59-5757-92ca-7d5fe2a1e980",
+        "order": 3,
+        "reps": 5,
+        "duration": null
+      },
+      {
+        "exercise_id": "8170c24e-b1ff-575d-badb-319776783ea5",
+        "order": 4,
+        "reps": 5,
+        "duration": null
+      },
+      {
+        "exercise_id": "c8655405-396a-52ac-b042-899885e991c6",
+        "order": 5,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "4733cef2-cc33-5681-a4f4-084764c217e6",
+        "order": 6,
+        "reps": 12,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "eacb69a5-ccc5-5c0e-a5a1-82a0e776a631",
+    "slug": "full-body-anywhere",
+    "name": "Full Body Anywhere",
+    "direction": "full_body",
+    "structure": "rounds",
+    "level": "beginner",
+    "location": "anywhere",
+    "equipment": [
+      "none"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 4,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 20,
+    "exercise_list": [
+      {
+        "exercise_id": "995e3067-18b3-51ae-89d0-60e435a0b410",
+        "order": 1,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "e6621cf9-ada9-51c5-960c-02c81907dc6e",
+        "order": 2,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "94de1329-4ab7-5d8c-9e8a-8402dd616b28",
+        "order": 3,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "dd8333df-bf6e-5fba-9802-1e5d0526096f",
+        "order": 4,
+        "reps": null,
+        "duration": 20
+      },
+      {
+        "exercise_id": "0ef84c53-08f2-5e9f-aa03-9354a07b2396",
+        "order": 5,
+        "reps": null,
+        "duration": 30
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "587b2845-8b4a-5efb-be6d-981e39a88d73",
+    "slug": "full-body-home",
+    "name": "Full Body Home",
+    "direction": "full_body",
+    "structure": "amrap",
+    "level": "intermediate",
+    "location": "home",
+    "equipment": [
+      "chair"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 0,
+    "work_seconds": 0,
+    "rest_exercise_seconds": 0,
+    "rest_round_seconds": 0,
+    "total_time_minutes": 15,
+    "exercise_list": [
+      {
+        "exercise_id": "7af78674-5e85-5a11-bfcb-16b0d33112ac",
+        "order": 1,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "2193fcaa-db04-5f1d-8bb4-a2dde4f164f4",
+        "order": 2,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "de111b0d-a480-5080-a8ba-bd01d14c0db1",
+        "order": 3,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "2adca085-3a2c-5963-93ec-6df290f01721",
+        "order": 4,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "e5102e1a-22da-5239-98fd-4cb9d1292fb8",
+        "order": 5,
+        "reps": 20,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "f1c0177f-644d-5d59-9990-213a95500bf8",
+    "slug": "core-crusher",
+    "name": "Core Crusher",
+    "direction": "core",
+    "structure": "rounds",
+    "level": "beginner",
+    "location": "home",
+    "equipment": [
+      "none"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 3,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 12,
+    "exercise_list": [
+      {
+        "exercise_id": "0ef84c53-08f2-5e9f-aa03-9354a07b2396",
+        "order": 1,
+        "reps": null,
+        "duration": 30
+      },
+      {
+        "exercise_id": "ae796969-4e9e-5c71-a464-e46450910139",
+        "order": 2,
+        "reps": 20,
+        "duration": null
+      },
+      {
+        "exercise_id": "171d53f0-6f73-53b6-8059-ab70c040ff32",
+        "order": 3,
+        "reps": 20,
+        "duration": null
+      },
+      {
+        "exercise_id": "06c690cf-ef26-5567-a4da-71500486809b",
+        "order": 4,
+        "reps": 20,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "d3d7e20f-41bc-5477-a73c-0a0ab6ea8903",
+    "slug": "upper-body-home",
+    "name": "Upper Body Home",
+    "direction": "upper",
+    "structure": "rounds",
+    "level": "intermediate",
+    "location": "home",
+    "equipment": [
+      "chair"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 4,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 18,
+    "exercise_list": [
+      {
+        "exercise_id": "2193fcaa-db04-5f1d-8bb4-a2dde4f164f4",
+        "order": 1,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "de111b0d-a480-5080-a8ba-bd01d14c0db1",
+        "order": 2,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "526a8e4e-b14b-56f7-b3d8-80d0817bbf32",
+        "order": 3,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "2306d36c-fb82-554d-91f4-90c8e65e6150",
+        "order": 4,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "dd8333df-bf6e-5fba-9802-1e5d0526096f",
+        "order": 5,
+        "reps": null,
+        "duration": 20
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "bd71ddf1-7223-55da-b7aa-b2d2bd401cc6",
+    "slug": "lower-body-home",
+    "name": "Lower Body Home",
+    "direction": "lower",
+    "structure": "rounds",
+    "level": "beginner",
+    "location": "home",
+    "equipment": [
+      "none"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 3,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 15,
+    "exercise_list": [
+      {
+        "exercise_id": "995e3067-18b3-51ae-89d0-60e435a0b410",
+        "order": 1,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "94de1329-4ab7-5d8c-9e8a-8402dd616b28",
+        "order": 2,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "e2924f48-ccfc-5164-8281-17154d032f65",
+        "order": 3,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "958533f4-3ba5-5543-b4a5-8ab35d26526d",
+        "order": 4,
+        "reps": null,
+        "duration": 30
+      },
+      {
+        "exercise_id": "61db3d59-8912-5664-b6ec-471b171ff4aa",
+        "order": 5,
+        "reps": 20,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "86608006-18ca-534e-86b2-d01f29c3b273",
+    "slug": "explosive-legs",
+    "name": "Explosive Legs",
+    "direction": "legs",
+    "structure": "tabata",
+    "level": "advanced",
+    "location": "home",
+    "equipment": [
+      "none"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 8,
+    "work_seconds": 20,
+    "rest_exercise_seconds": 10,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 20,
+    "exercise_list": [
+      {
+        "exercise_id": "b1a1c98f-3ae6-5c34-9e00-1cbcce767609",
+        "order": 1,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "8ee412c8-6c8c-5a6a-b849-0d0e9015c822",
+        "order": 2,
+        "reps": 6,
+        "duration": null
+      },
+      {
+        "exercise_id": "ea023a34-6859-536f-b769-c34b9c84d7e0",
+        "order": 3,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "3ede7e8e-9545-5b43-857f-1889d859a88f",
+        "order": 4,
+        "reps": 6,
+        "duration": null
+      },
+      {
+        "exercise_id": "78546078-ba2d-5c55-a53b-3a68ceecfdb3",
+        "order": 5,
+        "reps": 10,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "673c8c14-f8d4-50a3-8e11-bf32522027ec",
+    "slug": "push-pull-mix",
+    "name": "Push + Pull Mix",
+    "direction": "mix",
+    "structure": "emom",
+    "level": "intermediate",
+    "location": "home",
+    "equipment": [
+      "bar"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 5,
+    "work_seconds": 60,
+    "rest_exercise_seconds": 0,
+    "rest_round_seconds": 0,
+    "total_time_minutes": 20,
+    "exercise_list": [
+      {
+        "exercise_id": "6e797a62-1601-50cb-a8b5-1c3099ab8d0a",
+        "order": 1,
+        "reps": 6,
+        "duration": null
+      },
+      {
+        "exercise_id": "0c9f1664-ba19-58e3-bda5-646d000c35b8",
+        "order": 2,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "fd7462f5-33af-5ee6-b976-b7f23cc3302e",
+        "order": 3,
+        "reps": 8,
+        "duration": null
+      },
+      {
+        "exercise_id": "526a8e4e-b14b-56f7-b3d8-80d0817bbf32",
+        "order": 4,
+        "reps": 10,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "b6840f0a-95ca-57f0-a270-fc5002ea044c",
+    "slug": "leg-core-mix",
+    "name": "Leg + Core Mix",
+    "direction": "mix",
+    "structure": "rounds",
+    "level": "beginner",
+    "location": "home",
+    "equipment": [
+      "none"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 4,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 18,
+    "exercise_list": [
+      {
+        "exercise_id": "995e3067-18b3-51ae-89d0-60e435a0b410",
+        "order": 1,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "0ef84c53-08f2-5e9f-aa03-9354a07b2396",
+        "order": 2,
+        "reps": null,
+        "duration": 30
+      },
+      {
+        "exercise_id": "94de1329-4ab7-5d8c-9e8a-8402dd616b28",
+        "order": 3,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "ae796969-4e9e-5c71-a464-e46450910139",
+        "order": 4,
+        "reps": 20,
+        "duration": null
+      },
+      {
+        "exercise_id": "e2924f48-ccfc-5164-8281-17154d032f65",
+        "order": 5,
+        "reps": 15,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "0fe59bdf-53d1-5f3a-9f16-a1aed332f162",
+    "slug": "full-body-gym",
+    "name": "Full Body Gym",
+    "direction": "full_body",
+    "structure": "rounds",
+    "level": "advanced",
+    "location": "gym",
+    "equipment": [
+      "dumbbells",
+      "machine"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 4,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 30,
+    "exercise_list": [
+      {
+        "exercise_id": "85968a70-6a13-50a6-9c03-6ffe7108e7da",
+        "order": 1,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "5c134a7f-e4e5-5cd2-ae81-61184268ca06",
+        "order": 2,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "c2bde1f8-7bdc-5b65-8d48-02f5da826484",
+        "order": 3,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "20238ec8-73ed-5a4b-9e05-aaba4683d9ff",
+        "order": 4,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "5eb3cbb7-2254-5fb9-8579-30b859702f02",
+        "order": 5,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "e5d69280-cd35-50a5-81d5-d1fa7bada044",
+        "order": 6,
+        "reps": 12,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "d337fcbc-1e4b-5b1c-b5fa-74187f0c1703",
+    "slug": "beginner-full-body",
+    "name": "Beginner Full Body",
+    "direction": "full_body",
+    "structure": "rounds",
+    "level": "beginner",
+    "location": "home",
+    "equipment": [
+      "none"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 3,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 15,
+    "exercise_list": [
+      {
+        "exercise_id": "995e3067-18b3-51ae-89d0-60e435a0b410",
+        "order": 1,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "ac57a2b1-35b8-5269-aa4a-a0efc069c728",
+        "order": 2,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "e2924f48-ccfc-5164-8281-17154d032f65",
+        "order": 3,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "e5102e1a-22da-5239-98fd-4cb9d1292fb8",
+        "order": 4,
+        "reps": 20,
+        "duration": null
+      },
+      {
+        "exercise_id": "0ef84c53-08f2-5e9f-aa03-9354a07b2396",
+        "order": 5,
+        "reps": null,
+        "duration": 30
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "56cec29e-13ec-58c4-b1df-e980edcffff7",
+    "slug": "advanced-push",
+    "name": "Advanced Push",
+    "direction": "push",
+    "structure": "ladder",
+    "level": "advanced",
+    "location": "gym",
+    "equipment": [
+      "dumbbells"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 1,
+    "work_seconds": 0,
+    "rest_exercise_seconds": 30,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 20,
+    "exercise_list": [
+      {
+        "exercise_id": "5eb3cbb7-2254-5fb9-8579-30b859702f02",
+        "order": 1,
+        "reps": null,
+        "duration": null,
+        "ladder": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "exercise_id": "3b4d05ba-00a6-5374-8fd2-87f598111255",
+        "order": 2,
+        "reps": null,
+        "duration": null,
+        "ladder": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "exercise_id": "b7f3d750-91eb-5841-bd37-bffd1c21be9c",
+        "order": 3,
+        "reps": null,
+        "duration": null,
+        "ladder": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "exercise_id": "19ff3ccc-e9e8-538b-bafd-da3ce529af0c",
+        "order": 4,
+        "reps": null,
+        "duration": null,
+        "ladder": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          4,
+          3,
+          2,
+          1
+        ]
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "5ed89fa8-a435-56b5-8d1c-4cfb7b77a25c",
+    "slug": "home-leg-day",
+    "name": "Home Leg Day",
+    "direction": "legs",
+    "structure": "rounds",
+    "level": "beginner",
+    "location": "home",
+    "equipment": [
+      "chair"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 4,
+    "work_seconds": 45,
+    "rest_exercise_seconds": 15,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 18,
+    "exercise_list": [
+      {
+        "exercise_id": "063a39ae-f112-5ca4-a6f1-32cd76a8b512",
+        "order": 1,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "2adca085-3a2c-5963-93ec-6df290f01721",
+        "order": 2,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "e2924f48-ccfc-5164-8281-17154d032f65",
+        "order": 3,
+        "reps": 15,
+        "duration": null
+      },
+      {
+        "exercise_id": "94de1329-4ab7-5d8c-9e8a-8402dd616b28",
+        "order": 4,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "61db3d59-8912-5664-b6ec-471b171ff4aa",
+        "order": 5,
+        "reps": 20,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "ad09bebc-7d24-57cc-9f16-af9ccbad6c34",
+    "slug": "travel-workout",
+    "name": "Travel Workout",
+    "direction": "full_body",
+    "structure": "emom",
+    "level": "intermediate",
+    "location": "anywhere",
+    "equipment": [
+      "none"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 3,
+    "work_seconds": 60,
+    "rest_exercise_seconds": 0,
+    "rest_round_seconds": 0,
+    "total_time_minutes": 12,
+    "exercise_list": [
+      {
+        "exercise_id": "b1a1c98f-3ae6-5c34-9e00-1cbcce767609",
+        "order": 1,
+        "reps": 12,
+        "duration": null
+      },
+      {
+        "exercise_id": "e6621cf9-ada9-51c5-960c-02c81907dc6e",
+        "order": 2,
+        "reps": 10,
+        "duration": null
+      },
+      {
+        "exercise_id": "74c062f1-6a43-5f49-81a3-65ac4900a325",
+        "order": 3,
+        "reps": 20,
+        "duration": null
+      },
+      {
+        "exercise_id": "94de1329-4ab7-5d8c-9e8a-8402dd616b28",
+        "order": 4,
+        "reps": 12,
+        "duration": null
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  },
+  {
+    "id": "1ce47e8d-2c92-5789-a238-c3ca8c6a88fb",
+    "slug": "5-minute-core",
+    "name": "5-Minute Core",
+    "direction": "core",
+    "structure": "tabata",
+    "level": "all",
+    "location": "home",
+    "equipment": [
+      "none"
+    ],
+    "is_premade": true,
+    "created_by": null,
+    "rounds": 2,
+    "work_seconds": 20,
+    "rest_exercise_seconds": 10,
+    "rest_round_seconds": 60,
+    "total_time_minutes": 5,
+    "exercise_list": [
+      {
+        "exercise_id": "0ef84c53-08f2-5e9f-aa03-9354a07b2396",
+        "order": 1,
+        "reps": null,
+        "duration": 30
+      },
+      {
+        "exercise_id": "e5102e1a-22da-5239-98fd-4cb9d1292fb8",
+        "order": 2,
+        "reps": 20,
+        "duration": null
+      },
+      {
+        "exercise_id": "ae796969-4e9e-5c71-a464-e46450910139",
+        "order": 3,
+        "reps": 20,
+        "duration": null
+      },
+      {
+        "exercise_id": "5620288c-5d19-547a-a4fb-00ea1132aeed",
+        "order": 4,
+        "reps": null,
+        "duration": 20
+      }
+    ],
+    "created_at": "2026-10-17T00:00:00Z"
+  }
+]
